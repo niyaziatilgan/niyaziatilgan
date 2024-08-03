@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niyazi</h1>
 - 🌱 I’m currently learning **Unity and C#**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_](https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_)
+- 👨‍💻 All of my projects are available at github and [https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_](https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_)
 
 - 📫 How to reach me **niyaziatilgann@gmail.com**
 
