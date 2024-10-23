@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity and C#**
 
-- 🤝 I’m currently working at [Atlas Space]
+- 🤝 I’m currently working at [Atlas Space] (https://atlas.space/)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_](https://drive.google.com/drive/u/0/folders/10Kqkm0tKMv-PE2Y1zjGoie2yPZGwL3n_)
 
