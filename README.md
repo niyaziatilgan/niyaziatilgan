@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=niyaziatilgan&color=blue)
+![](https://komarev.com/ghpvc/?username=niyaziatilgan&color=white)
 <h1 align="center">Hi 👋, I'm Niyazi</h1>
 <h3 align="center">Game Developer</h3>
 
